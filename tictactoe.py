@@ -131,7 +131,6 @@ def drawXO(row,col):
     #print(posx,posy)
     #print(TTT)
    
-    
 
 def userClick():
     #get coordinates of mouse click
