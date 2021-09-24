@@ -68,7 +68,6 @@ def draw_status():
 
 def check_win():
      global TTT, winner,draw
-
         
     # check for winning rows
     for row in range (0,3):
