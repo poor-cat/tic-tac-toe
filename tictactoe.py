@@ -47,6 +47,7 @@ def game_opening():
     draw_status()
     
 
+    
 def draw_status():
     global draw
 
