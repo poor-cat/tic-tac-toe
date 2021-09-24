@@ -145,7 +145,8 @@ def userClick():
         col = 3
     else:
         col = None
-        
+      
+    
     #get row of mouse click (1-3)
     if(y<height/3):
         row = 1
