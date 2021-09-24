@@ -69,6 +69,7 @@ def draw_status():
 def check_win():
      global TTT, winner,draw
 
+        
     # check for winning rows
     for row in range (0,3):
         if ((TTT [row][0] == TTT[row][1] == TTT[row][2]) and(TTT [row][0] is not None)):
