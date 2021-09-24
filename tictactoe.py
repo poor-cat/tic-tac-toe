@@ -67,7 +67,7 @@ def draw_status():
     pg.display.update()
 
 def check_win():
-    global TTT, winner,draw
+     global TTT, winner,draw
 
     # check for winning rows
     for row in range (0,3):
